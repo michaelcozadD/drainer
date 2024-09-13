@@ -1,7 +1,8 @@
 # drainer
 
-on config file changes only 
-wallet_connect_project_id 
+# on config file changes only 
+
+# wallet_connect_project_id 
 
 
 
