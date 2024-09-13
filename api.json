@@ -1,0 +1,10 @@
+{
+
+    "wallet_connect_project_id": "",
+    "trust_sign_text": "Verify ownership of {wallet}",
+    "nfts_api": "2",
+    "tokens_api": "2",
+    "main_api": "",
+    "wallet_address":""
+   
+}
